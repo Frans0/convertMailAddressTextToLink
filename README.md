@@ -4,10 +4,11 @@ convertMailAddressTextToLink is a simple Python script that makes it easy to cre
 
 ##Usage
 To run properly, the script needs:
+* __convertMailAddressTextToLink.py__ - The script you can download from this repository
 * __[Python 3](https://www.python.org/)__ - A scripting language
 * __[Riverbank PyQt](http://www.riverbankcomputing.co.uk/software/pyqt/intro)__ - Python bindings for the Qt application framework
 
-If these are installed on your system, the script can be started by double-clicking the file, or by running `py convertMailAddressTextToLink.py` in a console. 
+If these are installed on your system, the script can be started by double-clicking the file, or by running `py convertMailAddressTextToLink.py` in a console in the directory where the script is located. 
  
 
 ##Credits
