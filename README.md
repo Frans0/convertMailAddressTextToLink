@@ -2,6 +2,8 @@
 
 convertMailAddressTextToLink is a simple Python script that makes it easy to create links from email addresses in large HTML files. The script should be able to run on all platforms for which Qt is available, including Windows, OS X, and Linux.
 
+The repository is located at [github](https://github.com/Frans0/convertMailAddressTextToLink).
+
 ##Screenshot
 A screenshot of the script running under Windows:
 ![screenshot](https://raw.githubusercontent.com/Frans0/convertMailAddressTextToLink/master/screenshots/convertMailAddressTextToLink.png)
